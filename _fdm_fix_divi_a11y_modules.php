@@ -2,7 +2,7 @@
  /**
  * Plugin Name:Fix Divi A11y Modules 
  * Plugin URI:https://diviplugins.com 
- * Description:Custom plugin for import module to the Divi Builder, create with Divi Module Builder 
+ * Description:Custom modules to help improve Divi accessibility
  * Version:1.0 
  * Author:DiviPlugins 
  * Author URI:https://diviplugins.com 
