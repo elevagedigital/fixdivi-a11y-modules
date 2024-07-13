@@ -1,5 +1,7 @@
 # fixdivi-a11y-modules
 
+Version 1.0
+==========================================
 FD Button replaces standard Button Module
 * Prevents screen readers from hearing icons
 * Adds aria-label option
@@ -10,4 +12,5 @@ FD Icon replaces standard Icon module
 * Adds aria-label option
 * Can wrap icon in link or button markup
 
-* Turn off standard modules - https://divimundo.com/en/blog/how-to-hide-divi-modules-that-you-dont-use/
+To reeduce confusion, we recommend that you turn off the standard button and icon modules once all existing instances have been converted to using the Fix Divi A11y versions.  How to turn off standard modules - https://divimundo.com/en/blog/how-to-hide-divi-modules-that-you-dont-use/
+
