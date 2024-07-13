@@ -1,11 +1,11 @@
 <?php
  /**
  * Plugin Name:Fix Divi A11y Modules 
- * Plugin URI:https://diviplugins.com 
+ * Plugin URI:https://elevagedigital.com/fix-divi-a11y/?utm_source=wordpress&utm_medium=referral&utm_campaign=fixdivi 
  * Description:Custom modules to help improve Divi accessibility
  * Version:1.0 
- * Author:DiviPlugins 
- * Author URI:https://diviplugins.com 
+ * Author:Elevage Digital 
+ * Author URI:https://elevagedigital.com/?utm_source=wordpress&utm_medium=referral&utm_campaign=fixdivi 
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html    
     Fix Divi A11y Modules is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or any later version. 
