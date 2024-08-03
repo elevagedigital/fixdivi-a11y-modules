@@ -14,3 +14,6 @@ FD Icon replaces standard Icon module
 
 To reeduce confusion, we recommend that you turn off the standard button and icon modules once all existing instances have been converted to using the Fix Divi A11y versions.  How to turn off standard modules - https://divimundo.com/en/blog/how-to-hide-divi-modules-that-you-dont-use/
 
+Directions
+========================================
+When adding an instance of the FD Button or FD Icon module to a page, use the fields under Content > Content to add your button/link text, url, aria-lable, id and whether or not it opens a new window.  Using Content > Link will not work. 
