@@ -3,7 +3,7 @@
  * Plugin Name:Fix Divi A11y Modules 
  * Plugin URI:https://elevagedigital.com/fix-divi-a11y/?utm_source=wordpress&utm_medium=referral&utm_campaign=fixdivi 
  * Description:Custom modules to help improve Divi accessibility
- * Version:1.0 
+ * Version:1.0.1 
  * Author:Elevage Digital 
  * Author URI:https://elevagedigital.com/?utm_source=wordpress&utm_medium=referral&utm_campaign=fixdivi 
  * License: GPL2
