@@ -1,4 +1,6 @@
 .dp_field_fdbutton{padding-right: .7em !important; padding-left: .7em !important;}
+body .et_pb_button.dp_field_fdbutton:after, 
+body .et_pb_button.dp_field_fdbutton:hover:after,
 .dp_field_fdbutton:before, 
 .dp_field_fdbutton:after{content:"" !important; margin-left: 0 !important; margin-right: 0 !important;}
 .fd-icon{line-height: inherit;font-size: inherit !important;opacity: 1;display: inline-block;font-family: ETmodules !important;font-weight: 400 !important;}
