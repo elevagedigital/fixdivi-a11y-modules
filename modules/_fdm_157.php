@@ -145,8 +145,8 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_157")){
 						"" !== $fdbutton_url && "#" !== $fdbutton_url ? sprintf("</a>") : "",
 						"" === $fdbutton_url || "#" === $fdbutton_url ? sprintf('<button id="%1$s" ', esc_attr($buttonid)) : "",
 						"" === $fdbutton_url || "#" === $fdbutton_url ? sprintf('</button>') : "",
-						"right" === $fdbutton_icon_placement ? sprintf('<span aria-hidden="true" class="fd-icon fd-icon-right fd-icon-%2$s" style="color: %3$s">%1$s</span>', esc_attr( et_pb_process_font_icon( $fdbutton_icon)), $fdbutton_icon_hover, $fdbutton_icon_color) : "",
-						"left" === $fdbutton_icon_placement ? sprintf('<span aria-hidden="true" class="fd-icon fd-icon-left fd-icon-%2$s" style="color: %3$s">%1$s</span>', esc_attr( et_pb_process_font_icon( $fdbutton_icon)), $fdbutton_icon_hover, $fdbutton_icon_color) : ""	
+						"right" === $fdbutton_icon_placement ? sprintf('<span aria-hidden="true" class="fd-icon fd-icon-right fd-icon-%2$s">%1$s</span>', esc_attr( et_pb_process_font_icon( $fdbutton_icon)), $fdbutton_icon_hover, $fdbutton_icon_color) : "",
+						"left" === $fdbutton_icon_placement ? sprintf('<span aria-hidden="true" class="fd-icon fd-icon-left fd-icon-%2$s">%1$s</span>', esc_attr( et_pb_process_font_icon( $fdbutton_icon)), $fdbutton_icon_hover, $fdbutton_icon_color) : ""	
 						);
                        }else{ $fdbutton= ""; }
                        /* End Processing Button: fdbutton */
