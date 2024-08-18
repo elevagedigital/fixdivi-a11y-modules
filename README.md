@@ -1,5 +1,10 @@
 # fixdivi-a11y-modules
 
+Version 1.0.1
+==========================================
+* fix issue with icon hover color
+* add support for full width button by adding "full" to Advanced > CSS Class
+
 Version 1.0
 ==========================================
 FD Button replaces standard Button Module
