@@ -1,4 +1,5 @@
-.dp_field_fdbutton{padding-right: .7em !important; padding-left: .7em !important;}
+.dp_field_fdbutton{padding-right: .7em !important; padding-left: .7em !important; display: inline-block;}
+.full .dp_field_fdbutton{width: 100%;}
 body .et_pb_button.dp_field_fdbutton:after, 
 body .et_pb_button.dp_field_fdbutton:hover:after,
 .dp_field_fdbutton:before, 
