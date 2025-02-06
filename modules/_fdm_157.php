@@ -7,7 +7,7 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_157")){
          public $vb_support = "partial";    
         
         public function init() {
-            $this->name = "FD Button" ;
+            $this->name = "A11y Button" ;
             
             
             $this->main_css_element = "%%order_class%%";
@@ -17,7 +17,7 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_157")){
             $fields = array(
                                     
 	"fdbutton_text" => array(
-                        "label" => __( "FD Button Text", "dp_dmb" ),
+                        "label" => __( "A11y Button Text", "dp_dmb" ),
                         "type" => "text",                               
                         "default" => __( "Read More", "dp_dmb" ),
                         
@@ -97,7 +97,7 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_157")){
                 "box_shadow" => array("default" => array("css" => array("main" => "%%order_class%%",))),
                 "button" => array( 
                     "fdbutton" => array(
-	   "label" => __("FD Button", "dp_dmb"),
+	   "label" => __("A11y Button", "dp_dmb"),
 	   "css" => array("main" => "{$this->main_css_element} .dp_field_fdbutton.et_pb_button", "important" => "all",),
                     ), ),
                 "filters" => array(),
