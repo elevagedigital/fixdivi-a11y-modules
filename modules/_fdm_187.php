@@ -7,7 +7,7 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_187")){
          public $vb_support = "partial";    
         
         public function init() {
-            $this->name = "FD Icon" ;
+            $this->name = "A11y Icon" ;
             
             
             $this->main_css_element = "%%order_class%%";
@@ -124,7 +124,7 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_187")){
                         "toggle_slug" => "icon",
                     ),
 				"fdicon_new_tab" => array(
-                        "label" => __( "FD Icon Open URL in New Tab", "dp_dmb" ),
+                        "label" => __( "A11y Icon Open URL in New Tab", "dp_dmb" ),
                         "type" => "yes_no_button",
                         "description" => __( "Here you can choose whether or not your link opens in a new window", "dp_dmb" ),
                         "options" => array(
@@ -136,7 +136,7 @@ if(!class_exists("ET_Builder_Module_DP_DMB_Module_187")){
                         "toggle_slug" => "content",
 	),      
 	"fdicon_url" => array(
-                        "label" => __( "FD Icon URL", "dp_dmb" ),
+                        "label" => __( "A11y Icon URL", "dp_dmb" ),
                         "type" => "text",
                          
                         "description" => __( "Input the destination URL for your link.", "dp_dmb" ),
